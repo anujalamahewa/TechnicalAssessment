@@ -28,6 +28,15 @@ number_of_examples = 2
 
 ![Screenshot 2023-09-23 071200](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/576434ab-ac57-4228-b86e-93b786bb91c3)
 
-With that i moved the next part of the code
+With that, moved the next part of the code
+
+4 Error "The model `gpt-4` does not exist or you do not have access to it."
+
+![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/14707035-851c-415c-857d-ccae8bbee4eb)
+
+fix
+
+    response = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo",
 
 
