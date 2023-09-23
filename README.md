@@ -1,4 +1,4 @@
-![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/5f46bb84-30ae-4007-aa32-acc84742cee6)Step by step
+Steps
 
 1. Read the email thoroughly the assignment is to "come up with a specific use case prompt to fine-tune the LLM on" as mentioned in https://github.com/mshumer/gpt-llm-trainer
 
@@ -27,3 +27,7 @@ temperature = .4
 number_of_examples = 2
 
 ![Screenshot 2023-09-23 071200](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/576434ab-ac57-4228-b86e-93b786bb91c3)
+
+With that i moved the next part of the code
+
+
