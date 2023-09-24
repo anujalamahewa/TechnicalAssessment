@@ -89,16 +89,22 @@ create a virtual environment, open the terminal in Visual Studio Code and type t
 ![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/f7978730-dc23-4b1a-ac3a-fe3eedaa839c)
 
 
+It seems that we have generated questions and responses:
+
+
+![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/6e94f069-e0d5-4933-8f4b-51b1aec38bce)
+
+
+![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/ba2a75a8-f29b-4874-99b8-405b0796e555)
+
+
+
+
+
 #---------------------------------
 8 Train the model! You may need to wait a few minutes before running the next cell to allow for the file to process on OpenAI's servers.
 
 
 ![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/73982742-6308-4c18-a8a2-184dd1d399a9)
-
-
-
-
-
-
 
 
