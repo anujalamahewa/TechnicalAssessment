@@ -59,6 +59,11 @@ create a virtual environment, open the terminal in Visual Studio Code and type t
 
   file=open("/training_examples.jsonl", "rb"),
 
+![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/f7978730-dc23-4b1a-ac3a-fe3eedaa839c)
+
+
+
+
 
 
 
