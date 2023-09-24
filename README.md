@@ -1,15 +1,15 @@
 <h3> This document contains detailed step-by-step guide on how i approached the given scenario </h3>
 
-#--------------------------------------------------------------------------
+
 1 Read the email thoroughly the assignment is to "come up with a specific use case prompt to fine-tune the LLM on" as mentioned in https://github.com/mshumer/gpt-llm-trainer
-#--------------------------------------------------------------------------
+
 
 It seemed like a simple task however I tried to run the code snippets but it gave errors. So I decided to run it locally.
 The idea behind this was to check out what this code actually does when it comes to execution, plus I'm curious as to see how this is done: code-wise.
 
-#--------------------------------------------------------------------------
+#---------------------------------
 2 Install Python and other related libraries:
-#--------------------------------------------------------------------------
+
 
 ![Screenshot 2023-09-23 065006](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/bce31cb3-bef8-4eae-99b2-2967cd661bfb)
 
@@ -18,9 +18,9 @@ The idea behind this was to check out what this code actually does when it comes
 
 
 
-#--------------------------------------------------------------------------
+#---------------------------------
 3 creating a new account to get the API key (since I use chat GPT heavily there was no quota left).
-#--------------------------------------------------------------------------
+
 
 https://stackoverflow.com/questions/71873182/no-module-named-openai
 
@@ -44,9 +44,8 @@ With that, moved the next part of the code
 
 
 
-#--------------------------------------------------------------------------
+#---------------------------------
 4 Error "The model `gpt-4` does not exist or you do not have access to it."
-#--------------------------------------------------------------------------
 
 ![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/14707035-851c-415c-857d-ccae8bbee4eb)
 
@@ -57,9 +56,9 @@ fix
 
 
         
-#--------------------------------------------------------------------------
+#---------------------------------
 5 module panda not found
-#--------------------------------------------------------------------------
+
 
 ![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/aaab2a9d-cc42-43b1-ab3d-51c232bd140a)
 
@@ -69,9 +68,9 @@ create a virtual environment, open the terminal in Visual Studio Code and type t
 
 
 
-#--------------------------------------------------------------------------
+#---------------------------------
 6 Now let's put our examples into a dataframe and turn them into a final pair of datasets.
-#--------------------------------------------------------------------------
+
 
 
 ![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/60d18b4b-5d3b-4358-abc0-4ab17e63b192)
@@ -80,9 +79,9 @@ create a virtual environment, open the terminal in Visual Studio Code and type t
 
 
 
-#--------------------------------------------------------------------------
+#---------------------------------
 7 Upload the file to OpenAI
-#--------------------------------------------------------------------------
+
 
 ![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/6e83b480-132a-4a90-a27b-e623a8039c57)
 
@@ -91,9 +90,9 @@ create a virtual environment, open the terminal in Visual Studio Code and type t
 ![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/f7978730-dc23-4b1a-ac3a-fe3eedaa839c)
 
 
-#--------------------------------------------------------------------------
+#---------------------------------
 8 Train the model! You may need to wait a few minutes before running the next cell to allow for the file to process on OpenAI's servers.
-#--------------------------------------------------------------------------
+
 
 ![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/73982742-6308-4c18-a8a2-184dd1d399a9)
 
