@@ -1,6 +1,6 @@
-Steps
+<h3> This document contains detailed step-by-step guide on how i approached the given scenario </h3>
 
-1. Read the email thoroughly the assignment is to "come up with a specific use case prompt to fine-tune the LLM on" as mentioned in https://github.com/mshumer/gpt-llm-trainer
+1 Read the email thoroughly the assignment is to "come up with a specific use case prompt to fine-tune the LLM on" as mentioned in https://github.com/mshumer/gpt-llm-trainer
 
 It seemed like a simple task however I tried to run the code snippets but it gave errors. So I decided to run it locally.
 
