@@ -39,4 +39,19 @@ fix
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
 
+5 module panda not found
+
+![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/aaab2a9d-cc42-43b1-ab3d-51c232bd140a)
+
+https://saturncloud.io/blog/how-to-fix-no-module-named-pandas-error-in-visual-studio-code-for-windows/#:~:text=In%20conclusion%2C%20the%20%E2%80%9CNo%20module,and%20checking%20the%20Python%20path.
+
+create a virtual environment, open the terminal in Visual Studio Code and type the following command: python -m venv myenv. This will create a virtual environment named “myenv”. To activate the virtual environment, type the following command: .\myenv\Scripts\activate. Once the virtual environment is activated, you can install Pandas using the pip install pandas command.
+
+Now let's put our examples into a dataframe and turn them into a final pair of datasets.
+
+![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/60d18b4b-5d3b-4358-abc0-4ab17e63b192)
+
+![image](https://github.com/anujalamahewa/TechnicalAssessment/assets/12027102/d9ecb02c-083f-493e-9c70-e6100e5df651)
+
+
 
